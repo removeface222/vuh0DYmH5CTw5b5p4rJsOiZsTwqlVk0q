@@ -1,0 +1,18 @@
+{
+    "status": 200,
+    "data": {
+        "session_id": -1,
+        "gr_id": "a|T:_UTE9wHAWH7AtzbsOCjvvDBLrADXaSP6d",
+        "player_id_separated": "T:_UTE9wHAWH7AtzbsOCjvvDBLrADXaSP6d",
+        "display_name": "dd",
+        "platform": "APPLE",
+        "access_token_expires_in": 1200,
+        "refresh_token_expires_in": 1209600,
+        "access_token": "f9803c6b-aed9-4fa6-8ea6-5022a77f702d",
+        "refresh_token": "3a2c9d5d-1c30-4294-9555-2a2e9f3c3685"
+    },
+    "messages": [
+        "Player updated"
+    ],
+    "success": true
+}
